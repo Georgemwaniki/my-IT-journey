@@ -1,3 +1,8 @@
 title: My IT Journey
 description: From certified to skilled—hands-on learning in networking, cloud, and cybersecurity
 theme: minima
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.css
